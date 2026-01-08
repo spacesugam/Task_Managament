@@ -2,6 +2,9 @@
 
 Taskly is a robust, production-ready Task Management system built with **Spring Boot 3.2.0**. It features a RESTful API with automated database migrations, API Key authentication, and a stunning, modern **Glassmorphism Web Dashboard**.
 
+![Dashboard Main](docs/screenshots/dashboard_main.png)
+*Modern Glassmorphism Dashboard View*
+
 ---
 
 ## 🚀 Key Features
@@ -30,6 +33,25 @@ Taskly is a robust, production-ready Task Management system built with **Spring 
 - **Maven** (Build Tool)
 - **Vanilla HTML/CSS/JS** (Dashboard)
 - **Lucide Icons**
+
+---
+
+## 📸 System Gallery
+
+### Dashboard Overview
+| Main View | Task Management |
+| :--- | :--- |
+| ![Dashboard](docs/screenshots/dashboard_main.png) | ![Tasks](docs/screenshots/dashboard_tasks.png) |
+
+### User Management & Creation
+| User List | Create Task Modal |
+| :--- | :--- |
+| ![Users](docs/screenshots/dashboard_users.png) | ![Modal](docs/screenshots/create_task_modal.png) |
+
+### Database Management (H2)
+| H2 Login | Tasks Table | Users Table |
+| :--- | :--- | :--- |
+| ![Login](docs/screenshots/h2_login.png) | ![Tasks Table](docs/screenshots/h2_tasks_table.png) | ![Users Table](docs/screenshots/h2_users_table.png) |
 
 ---
 
